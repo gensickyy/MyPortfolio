@@ -24,7 +24,7 @@ const projects = [
     gitHubLink: "https://github.com/gensickyy/Currency-Converter",
   },
   {
-    title: "dgfdgfdgfdg App",
+    title: "Calculator App",
     skills: "JavaScript, HTML/CSS",
     img: project03,
     imgBig: project03Big,
